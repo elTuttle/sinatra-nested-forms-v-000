@@ -9,7 +9,6 @@ class Pirate
     @name = params[:name]
     @weight = params[:weight]
     @weight = params[:height]
-    binding.pry
 
     @@all << self
 
