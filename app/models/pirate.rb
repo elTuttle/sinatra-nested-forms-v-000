@@ -5,7 +5,7 @@ class Pirate
   PIRATES = []
 
   def initialize
-    
+
   end
 
   def self.all
