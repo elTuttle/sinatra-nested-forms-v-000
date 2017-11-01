@@ -2,14 +2,14 @@ class Ship
 
   attr_accessor :name, :type, :booty
 
-  PIRATES = []
+  SHIPS = []
 
   def initialize
 
   end
 
   def self.all
-    PIRATES
+    SHIPS
   end
-  
+
 end
